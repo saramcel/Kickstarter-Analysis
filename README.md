@@ -5,6 +5,7 @@ Exploratory analysis on Kickstarter data to uncover trends
 ---
 ![Outcome_by_Month](https://github.com/saramcel/Kickstarter-Analysis/blob/25dd30dab99132fedd9be87f44b41d8c842fdecb/Outcome%20by%20Month.png)
 ---
+# Conclusions
 * Failed kickstarters for plays in the US tend to have higher goals on average and lower average pledges.
 * Kickstarters started in Feb-May tend to have a greater success rate than failure rate. The gap between failure and success is greatest in these months, and the gap begins to close for Kickstarters that launched in June.
 * I suggest you cut down your budget, focus on courting a few huge donations, and launch in the first part of the year (not January).
