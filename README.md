@@ -1,9 +1,9 @@
 # Kickstarter-Analysis
 Exploratory analysis on Kickstarter data to uncover trends
 # Graphs for Report
-![Parent_Category_Outcome](C:\Users\Sara\Desktop\Analysis Projects\Module 1 Excel\Asynchronous Work/Parent Category Outcomes.png)
+![Parent_Category_Outcome]()
 ---
-![Outcome_by_Month](C:\Users\Sara\Desktop\Analysis Projects\Module 1 Excel\Asynchronous Work/Outcome by Month.png)
+![Outcome_by_Month](Outcome by Month.png)
 ---
 * Failed kickstarters for plays in the US tend to have higher goals on average and lower average pledges
 * All nonfiction publishing Kickstarters in the US are successful 
