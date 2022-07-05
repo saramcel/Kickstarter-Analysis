@@ -14,7 +14,7 @@ Each of the following graphs provide information from slightly different data se
 ### Analysis of Outcomes Based on Launch Date
 The analysis based on the launch date was accomplished by first converting the launch date into a usable date, then we extracted the year. Then, I created a pivot table with the date and outcomes, which could be filtered by the parent category (theater) and year (all). The outcomes of interest were "successful," "failed," and "canceled." The pivot table showed the frequency of each of these outcomes per month of launch date. For easy comparison, I created a line graph (please find below).
 
-![Launch_Date_vs_Outcomes](link)
+![Launch_Date_vs_Outcomes](https://github.com/saramcel/Kickstarter-Analysis/blob/38b99a27e04897645b8f4fb201f90ef4f50b8dd2/Resources/Theater_Outcomes_vs_Launch.png)
 
 The graph shows that, for theater Kickstarters, the cases of failure are about 20-30 behind the cases of success, and this relationship continues from January to April. For launches in May, success cases rise sharply to about 60 cases above failure, and remain higher than failure rates until August, when they return to previous levels. The gap between failure and success narrows in October, and the gap closes almost completely for campaigns launched in December. 
 Canceled Kickstarters are about the same all year long with very low case numbers. 
@@ -38,7 +38,7 @@ This time, the D column needs to meet two criteria--it needs to be equal or more
 
 The following is a graph of the outcome frequencies by goal category. 
 
-![Goals_vs_Outcomes](link)
+![Goals_vs_Outcomes](https://github.com/saramcel/Kickstarter-Analysis/blob/38b99a27e04897645b8f4fb201f90ef4f50b8dd2/Resources/Outcomes_vs_Goals.png)
 
 This graph shows the percentage of successful and unsuccessful plays by funding goal range. Because these are proportions, these lines can be expected to be mirror images. Please note that this data is positively skewed, meaning that most of it is in the bottom ranges, and therefore the higher ranges should be interpreted with caution.
 
